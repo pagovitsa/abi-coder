@@ -1,7 +1,7 @@
 {
   "name": "@bcoders.gr/abi-codec",
-  "version": "1.0.0",
-  "description": "High-performance ABI encoding/decoding for Ethereum with receipt log processing",
+  "version": "1.1.0",
+  "description": "High-performance ABI encoding/decoding for Ethereum with receipt log processing - now supports tuple decoding",
   "main": "index.js",
   "scripts": {
     "test": "node test/basic.test.js",
